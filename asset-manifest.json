@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/placement-checklist/static/css/main.3057c341.css",
+    "main.js": "/placement-checklist/static/js/main.a5f86d92.js",
+    "index.html": "/placement-checklist/index.html",
+    "main.3057c341.css.map": "/placement-checklist/static/css/main.3057c341.css.map",
+    "main.a5f86d92.js.map": "/placement-checklist/static/js/main.a5f86d92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3057c341.css",
+    "static/js/main.a5f86d92.js"
+  ]
+}
